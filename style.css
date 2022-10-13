@@ -1,0 +1,44 @@
+
+    body{
+        background-color:	#97FDF8;
+    }
+    #label
+    {   margin: auto 50px;
+        font-weight: bold;
+        font-size:2rem;
+    }
+    #nav-ul{
+        margin: auto;
+    }
+    /* #loginbtn{
+       margin-left: 200px;
+    } */
+
+    #first-content{
+        margin-top: 160px;
+        margin-left: 100px !important;
+    }
+     #first-content h1{
+       font-weight: 600 !important;
+    }
+    #first-content p{
+       color: grey;
+    } 
+    #first-content input{
+       max-width: 50%;
+       border-radius:0%;
+    }
+    #first-content button{
+        position:relative;
+        left: -12px;
+        top: -2px;
+        border: none;
+        border-radius: 0;
+        background-color: 	#000080;
+        color: white;
+    }
+#img{
+  margin-top: 80px;
+  margin-left: 130px;
+}
+  
